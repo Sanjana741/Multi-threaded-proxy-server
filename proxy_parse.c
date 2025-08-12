@@ -1,7 +1,5 @@
-/*
-  proxy_parse.c -- a HTTP Request Parsing Library.
-  COS 461  
-*/
+
+//  proxy_parse.c -- a HTTP Request Parsing Library.
 
 #include "proxy_parse.h"
 
